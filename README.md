@@ -9,18 +9,18 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Enzo Bonzi Cassilhas
+- Matricula: 1648935
+- Proposta de projeto escolhida: 2. Lugares e Experiências
+- Breve descrição sobre seu projeto: Um site que você consegue pesquisar todos os pontos turisticos de um lugar a partir do país, e nele é possivel fazer comentarios sobre o lugar e avaliações.
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Desktop](public/images/css-deskto.png)
 
 ## Print da versão responsiva com CSS puro [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Mobile](public/images/css-mobile.png)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
